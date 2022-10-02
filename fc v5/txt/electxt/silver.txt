@@ -1,0 +1,7 @@
+Governor: 9	Deadline: 4.5
+
+Councillor: 8	Deadline: 4
+
+Constable: 7	Deadline: 3.5
+
+Board Member: 6	Deadline: 3

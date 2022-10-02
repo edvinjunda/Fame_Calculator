@@ -1,0 +1,7 @@
+Director: 5		Deadline: 2.5
+
+Speaker: 4	Deadline: 2
+
+Chief Ranger: 3	Deadline: 1.5
+
+Ranger: 2		Deadline: 1

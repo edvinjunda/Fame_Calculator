@@ -1,0 +1,105 @@
+
+9/25/2020 9:43:57 PM
+Calculated fame before daily lost
+Player's fame: 
+221000
+Daily gained fame: 
+0
+Number of days: 
+0
+
+Amount of fame: 
+221000
+
+
+9/25/2020 9:44:21 PM
+Calculated prefered amount of fame
+Player's fame: 
+222000
+Daily gained fame: 
+122000
+Prefered amount of fame: 
+1222000
+
+Number of days: 
+10
+
+
+2022-06-17 9:12:14 PM
+Calculated fame after daily lost
+Player's fame: 
+45000
+Daily gained fame: 
+45000
+Number of days: 
+4
+
+Amount of fame: 
+212684
+
+
+2022-08-20 11:45:46 PM
+Calculated fame before daily lost
+Player's fame: 
+1900000
+Daily gained fame: 
+0
+Number of days: 
+180
+
+Amount of fame: 
+51076
+
+
+2022-08-20 11:46:00 PM
+Calculated fame before daily lost
+Player's fame: 
+1900000
+Daily gained fame: 
+0
+Number of days: 
+150
+
+Amount of fame: 
+93635
+
+
+2022-09-02 6:21:18 PM
+Calculated fame before daily lost
+Player's fame: 
+0
+Daily gained fame: 
+650000
+Number of days: 
+14
+
+Amount of fame: 
+8006637
+
+
+2022-09-29 8:48:44 PM
+Calculated prefered amount of fame
+Player's fame: 
+0
+Daily gained fame: 
+1000
+Prefered amount of fame: 
+29000
+
+Number of days: 
+45
+
+
+2022-10-02 12:22:35 AM
+Calculated fame after daily lost
+Player's fame: 
+45000
+Daily gained fame: 
+5000
+Number of days: 
+55
+
+Amount of fame: 
+179163
+
+

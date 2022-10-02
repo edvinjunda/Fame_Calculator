@@ -1,0 +1,7 @@
+Sheriff: 14		Deadline: 7
+
+Marshal: 12	Deadline: 6
+
+Deputy: 11	Deadline: 5.5
+
+A. Deputy: 10	Deadline: 5
